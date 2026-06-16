@@ -1,0 +1,45 @@
+{
+    "name": "nfs",
+
+    "settings": {
+        "deadzone": 0.10,
+        "smoothing": 0.20
+    },
+
+    "bindings": [
+        {
+            "source": {
+                "type": "axis",
+                "index": 0,
+                "direction": "left"
+            },
+
+            "target": {
+                "key": "left"
+            }
+        },
+
+        {
+            "source": {
+                "type": "axis",
+                "index": 0,
+                "direction": "right"
+            },
+
+            "target": {
+                "key": "right"
+            }
+        },
+
+        {
+            "source": {
+                "type": "button",
+                "index": 3
+            },
+
+            "target": {
+                "key": "space"
+            }
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "forza_horizon_4",
+    "settings": {
+        "deadzone": 0.1,
+        "smoothing": 0.2
+    },
+    "bindings": []
+}
